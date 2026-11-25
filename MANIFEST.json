@@ -1,0 +1,276 @@
+{
+ "name": "dsh-science-skills-pack",
+ "version": "1.0.0",
+ "built": "2026-11-25",
+ "contents": {
+  "skills": 50,
+  "skillFiles": 373,
+  "bytes": 6725392
+ },
+ "mcp": {
+  "name": "biomolecular_structure_viewer",
+  "patched": true,
+  "tools": [
+   "get_state",
+   "load_structure",
+   "highlight_region",
+   "annotate_region",
+   "set_representation",
+   "set_overlays",
+   "clear_highlights",
+   "clear_annotations"
+  ]
+ },
+ "skills": [
+  {
+   "dir": "alphafold_database_fetch_and_analyze",
+   "name": "alphafold-database-fetch-and-analyze",
+   "valid": true
+  },
+  {
+   "dir": "alphagenome_atlas_website_links",
+   "name": "alphagenome-atlas-website-links",
+   "valid": true
+  },
+  {
+   "dir": "alphagenome_single_variant_analysis",
+   "name": "alphagenome-single-variant-analysis",
+   "valid": true
+  },
+  {
+   "dir": "alphagenome_variant_impact_score",
+   "name": "alphagenome-variant-impact-score",
+   "valid": true
+  },
+  {
+   "dir": "android-cli-plugin",
+   "name": "android-cli",
+   "valid": true
+  },
+  {
+   "dir": "biomolecular_structure_viewer",
+   "name": "biomolecular-structure-viewer",
+   "valid": true
+  },
+  {
+   "dir": "chembl_database",
+   "name": "chembl-database",
+   "valid": true
+  },
+  {
+   "dir": "cheminformatics_cofolding",
+   "name": "cheminformatics-cofolding",
+   "valid": true
+  },
+  {
+   "dir": "cheminformatics_core",
+   "name": "cheminformatics-core",
+   "valid": true
+  },
+  {
+   "dir": "cheminformatics_doc2mol",
+   "name": "cheminformatics-doc2mol",
+   "valid": true
+  },
+  {
+   "dir": "cheminformatics_ml",
+   "name": "cheminformatics-ml",
+   "valid": true
+  },
+  {
+   "dir": "cheminformatics_physics",
+   "name": "cheminformatics-physics",
+   "valid": true
+  },
+  {
+   "dir": "cheminformatics_reactions",
+   "name": "cheminformatics-reactions",
+   "valid": true
+  },
+  {
+   "dir": "clinical_trials_database",
+   "name": "clinical-trials-database",
+   "valid": true
+  },
+  {
+   "dir": "clinvar_database",
+   "name": "clinvar-database",
+   "valid": true
+  },
+  {
+   "dir": "credentials",
+   "name": "credentials",
+   "valid": true
+  },
+  {
+   "dir": "dbsnp_database",
+   "name": "dbsnp-database",
+   "valid": true
+  },
+  {
+   "dir": "embl_ebi_ols",
+   "name": "embl-ebi-ols",
+   "valid": true
+  },
+  {
+   "dir": "encode_ccres_database",
+   "name": "encode-ccres-database",
+   "valid": true
+  },
+  {
+   "dir": "ensembl_database",
+   "name": "ensembl-database",
+   "valid": true
+  },
+  {
+   "dir": "foldseek_structural_search",
+   "name": "foldseek-structural-search",
+   "valid": true
+  },
+  {
+   "dir": "gnomad_database",
+   "name": "gnomad-database",
+   "valid": true
+  },
+  {
+   "dir": "gtex_database",
+   "name": "gtex-database",
+   "valid": true
+  },
+  {
+   "dir": "human_protein_atlas_database",
+   "name": "human-protein-atlas-database",
+   "valid": true
+  },
+  {
+   "dir": "interpro_database",
+   "name": "interpro-database",
+   "valid": true
+  },
+  {
+   "dir": "jaspar_database",
+   "name": "jaspar-database",
+   "valid": true
+  },
+  {
+   "dir": "literature_search_arxiv",
+   "name": "literature-search-arxiv",
+   "valid": true
+  },
+  {
+   "dir": "literature_search_biorxiv",
+   "name": "literature-search-biorxiv",
+   "valid": true
+  },
+  {
+   "dir": "literature_search_europepmc",
+   "name": "literature-search-europepmc",
+   "valid": true
+  },
+  {
+   "dir": "literature_search_openalex",
+   "name": "literature-search-openalex",
+   "valid": true
+  },
+  {
+   "dir": "ncbi_sequence_fetch",
+   "name": "ncbi-sequence-fetch",
+   "valid": true
+  },
+  {
+   "dir": "openfda_database",
+   "name": "openfda-database",
+   "valid": true
+  },
+  {
+   "dir": "opentargets_database",
+   "name": "opentargets-database",
+   "valid": true
+  },
+  {
+   "dir": "pdb_database",
+   "name": "pdb-database",
+   "valid": true
+  },
+  {
+   "dir": "predictingthepast",
+   "name": "predictingthepast",
+   "valid": true
+  },
+  {
+   "dir": "protein_sequence_msa",
+   "name": "protein-sequence-msa",
+   "valid": true
+  },
+  {
+   "dir": "protein_sequence_similarity_search",
+   "name": "protein-sequence-similarity-search",
+   "valid": true
+  },
+  {
+   "dir": "pubchem_database",
+   "name": "pubchem-database",
+   "valid": true
+  },
+  {
+   "dir": "pubmed_database",
+   "name": "pubmed-database",
+   "valid": true
+  },
+  {
+   "dir": "pymol",
+   "name": "pymol",
+   "valid": true
+  },
+  {
+   "dir": "quickgo_database",
+   "name": "quickgo-database",
+   "valid": true
+  },
+  {
+   "dir": "rdkit_general",
+   "name": "rdkit-general",
+   "valid": true
+  },
+  {
+   "dir": "reactome_database",
+   "name": "reactome-database",
+   "valid": true
+  },
+  {
+   "dir": "science_overview",
+   "name": "science-overview",
+   "valid": true
+  },
+  {
+   "dir": "string_database",
+   "name": "string-database",
+   "valid": true
+  },
+  {
+   "dir": "ucsc_conservation_and_tfbs",
+   "name": "ucsc-conservation-and-tfbs",
+   "valid": true
+  },
+  {
+   "dir": "unibind_database",
+   "name": "unibind-database",
+   "valid": true
+  },
+  {
+   "dir": "uniprot_database",
+   "name": "uniprot-database",
+   "valid": true
+  },
+  {
+   "dir": "uv",
+   "name": "uv",
+   "valid": true
+  },
+  {
+   "dir": "workflow_skill_creator",
+   "name": "workflow-skill-creator",
+   "valid": true
+  }
+ ]
+}
